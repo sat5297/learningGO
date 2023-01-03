@@ -1,0 +1,6 @@
+Go command gives us the details of running the go files.
+
+go run file.go
+go build file.go
+
+import to gain access to another packages.

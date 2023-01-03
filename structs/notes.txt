@@ -1,0 +1,2 @@
+It refers to the structure data type present in the structure.
+They are similar to the structure in the C++ language.
